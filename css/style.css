@@ -1,0 +1,114 @@
+body{
+	margin:0;
+}
+section{
+	width:70%;
+	margin: 0 auto;
+}
+
+
+
+
+.wrapper{
+	padding-top: 0px;
+	
+	font-style: italic;
+	background-color: black;
+	background-image: url("../img/aero1.jpg");
+	height:500px;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	font-style: italic;
+	padding-top: 40px;
+	color: navy;
+	
+}
+h1{
+	font-size: 90px;
+	text-align: center;
+	font-style: italic;
+	color: maroon;
+}
+
+.content{
+	display:flex;
+}
+
+
+.image{
+	height:325px;
+	width:500px;
+	margin-left:-180px;
+	margin-bottom: 50px;
+	margin-top:30px;
+
+}
+
+/**pictures on home pages**/
+.imge{
+
+
+	height:350px;
+	width:450px;
+	//margin-left:-180px;
+	padding:20px;
+}
+.ptag{
+
+}
+.primary{
+	display:flex;
+
+}
+
+/*******table***/
+
+table, td, th {    
+    border: 1px solid #ddd;
+    text-align: left;
+
+}
+
+table {
+
+    border-collapse: collapse;
+    width: 40%;
+margin:10px 0 10px 230px;
+
+}
+
+th, td {
+    padding: 15px;
+}
+
+.packages{
+	display: inline-block;
+	float: left;
+	width: 45%;
+	vertical-align:top; 
+}
+/**footer**/
+footer{
+	height:20%;
+	font-size: 20px;
+	padding-top: 10px;
+}
+
+.footer{
+background-color: purple;
+height:75px;
+text-align:center;
+}
+
+.prd{
+	font-size:15px;
+	font-weight:;
+	
+}
+h2{
+	text-align:center;
+}
+span{
+	font-size: 25px
+
+}
